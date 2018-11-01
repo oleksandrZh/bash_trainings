@@ -6,4 +6,4 @@ MESSAGE="${1: -$dfmsg}"
 
 echo $MESSAGE
 
-#exit 0
+exit 0
